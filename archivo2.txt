@@ -1,3 +1,0 @@
-Este es el segundo archivo de prueba.
-Cambios de prueba
-Cambios despues del primer commit
